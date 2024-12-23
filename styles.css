@@ -1,0 +1,42 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.contenido {
+    width: 100%;
+    padding: 20px 0px;
+    background-color: rgb(234, 234, 234);
+    margin-bottom: 40px;
+}
+
+.contenedor {
+    width: 40%;
+    height: 80%;
+    display: block;
+    margin: 70px auto;
+    background-color: white;   
+}
+
+.cabecera {
+    font-size: 15px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.piedepagina {
+    padding: 10px;
+}
